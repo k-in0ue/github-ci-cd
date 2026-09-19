@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Amazing Script
-        runs: echo "Hello"
+        run: echo "Hello"
